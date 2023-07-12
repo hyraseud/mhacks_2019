@@ -1,0 +1,8 @@
+Flask==1.1.1
+MechanicalSoup
+textblob
+nltk
+requests
+beautifulsoup4
+numpy
+pandas
